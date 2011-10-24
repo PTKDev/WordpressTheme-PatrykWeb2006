@@ -1,6 +1,6 @@
 #PatrykWeb2006 (Wordpress Theme)
 
-PatrykWeb2006 (Wordpress Theme) is official wordpress theme of http://www.ptkdev.it/
+PatrykWeb2006 (Wordpress Theme) is official wordpress theme of http://www.ptkweb.it/
 
 ## How to Install
 
