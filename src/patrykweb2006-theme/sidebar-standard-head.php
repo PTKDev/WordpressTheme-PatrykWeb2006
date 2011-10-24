@@ -18,7 +18,7 @@
 	<meta name="author-phone_wind" content="+39 3281759093" />
 	
 	<meta name="copyright" content="GNU Affero General Public License" />
-	<meta name="source-code" content="https://github.com/PTKDev/WordpressTheme-PatrykWeb2006_Original" />
+	<meta name="source-code" content="https://github.com/PTKDev/WordpressTheme-PatrykWeb2006" />
 	
 	<meta name="distribution" content="global" />
 	<meta name="robots" content="index,follow" />
